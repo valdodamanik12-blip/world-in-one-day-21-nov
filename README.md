@@ -1,8 +1,8 @@
 # THE WORLD IN ONE DAY — Saturday 21 November 2026
 
-[![Competition: news-image-20261121](https://img.shields.io/badge/make.fun-news--image--20261121-blue)](https://make.fun/bounty/news-image-20261121?utm_medium=readme)
-[![Rank: TBD](https://img.shields.io/badge/rank-TBD-lightgrey)](https://make.fun/bounty/news-image-20261121?utm_medium=readme)
-[![Reward: $100](https://img.shields.io/badge/reward-%24100-green)](https://make.fun/bounty/news-image-20261121?utm_medium=readme)
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/valdodamanik12-blip/world-in-one-day-21-nov/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/valdodamanik12-blip/world-in-one-day-21-nov/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 
 A newspaper-style front-page infographic summing up the world's news of
 **Saturday 21 November 2026** in one image: six verified stories from one day.
